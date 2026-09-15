@@ -3,8 +3,8 @@
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/agent-visibility-template)
 
 <!-- dash-content-start -->
-
-Search is shifting from links to answers. To show up in those answers, your content has to be readable by AI agents and crawlers — in whatever convention each one looks for. This template makes your site visible across **every** agent-discovery surface from a single content store, powered by [Workers AI](https://developers.cloudflare.com/workers-ai/).
+another test
+Search is shifting from links to answers. testing. To show up in those answers, your content has to be readable by AI agents and crawlers — in whatever convention each one looks for. This template makes your site visible across **every** agent-discovery surface from a single content store, powered by [Workers AI](https://developers.cloudflare.com/workers-ai/).
 
 **How it works:** the Worker enriches your content once with Workers AI — deriving a clean title, an agent-friendly summary, key points, and topic tags — caches it in [KV](https://developers.cloudflare.com/kv/), then projects that one store onto every surface an agent might request:testing
 
@@ -22,7 +22,7 @@ This template ships with sample content so it works the moment you deploy it. Po
 
 <!-- dash-content-end -->
 
-## Who is this for
+## Who is this fortest again
 
 - **Anyone who wants to show up in AI answers.** If readers increasingly ask ChatGPT, Claude, or Perplexity instead of clicking a search result, this gives those agents a clean, structured copy of your content to cite.
 - **Developers exploring AEO (Answer Engine Optimization).** A working reference for the emerging set of agent-discovery conventions, all in one Worker.
