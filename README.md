@@ -22,7 +22,7 @@ This template ships with sample content so it works the moment you deploy it. Po
 
 <!-- dash-content-end -->
 
-## Who is this for
+## Who is this fortest again
 
 - **Anyone who wants to show up in AI answers.** If readers increasingly ask ChatGPT, Claude, or Perplexity instead of clicking a search result, this gives those agents a clean, structured copy of your content to cite.
 - **Developers exploring AEO (Answer Engine Optimization).** A working reference for the emerging set of agent-discovery conventions, all in one Worker.
